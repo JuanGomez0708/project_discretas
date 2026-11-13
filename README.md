@@ -12,3 +12,6 @@ guardados en cada csv y su utilización en algotithms es fácil.
 Al comenzar nos costó un poco conectar todo, sobre todo como lograr que el programa encontrara bien los archivos csv en las carpetas y manejar los datos cuando los nodos venían con su peso. También tuvimos que corregir un par de detalles en la lógica para que el recorrido no se detuviera antes de buscar los buscar ciclos.
 
 El usar varios archivos como (graphs, utils y algorithms) nos ayudó a encontrar los errores rápido y dejar todo funcionando bien con los ejemplos de prueba.
+
+Para el funcionamiento del código se pega lo siguiente en la terminal
+uv run python -m project_discretas.test_algorithms
